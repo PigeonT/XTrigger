@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/pigeon/Documents/Programming/XTrigger/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/context_launcher.png",
+        "source": "/Users/pigeon/Documents/Programming/XTrigger/app/src/main/res/mipmap-xxhdpi/context_launcher.png"
+    },
+    {
+        "merged": "/Users/pigeon/Documents/Programming/XTrigger/app/build/intermediates/res/merged/release/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/pigeon/Documents/Programming/XTrigger/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

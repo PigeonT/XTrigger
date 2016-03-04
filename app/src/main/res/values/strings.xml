@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">XTrigger</string>
+    <string name="time">Zeit</string>
+    <string name="weekday">Wochentag</string>
+    <string name="Temperature">Temperatur</string>
+    <string name="place">Ort</string>
+    <string name="weather">Wetter</string>
+    <string name="Tagsüber">Tagsüber (06:00 - 17:00)</string>
+    <string name="Abend">Abend (17:00 - 21:00)</string>
+    <string name="Nacht">Nacht (21:00 - 06:00)</string>
+    <string name="Start">Starten</string>
+    <string name="Stop">Stoppen</string>
+    <string name="Monday">Montag</string>
+    <string name="Tuesday">Dienstag</string>
+    <string name="Wednesday">Mittwoch</string>
+    <string name="Thursday">Donnerstag</string>
+    <string name="Friday">Freitag</string>
+    <string name="Saturday">Samstag</string>
+    <string name="Sunday">Sonntag</string>
+    <string name="introductionText">Die App kann selbst nach aktuellen Bedingungen abschätzen, wann sie dem Nutzer eine Benachrichtigung schicken soll.\nWenn Sie "Starten" drücken, ist die App im Hintergrund immer aktiv, auch, wenn Sie Ihr Smartphone neu starten.\nSobald Sie "Stoppen" drücken, deaktiviert sich die App.\nStellen Sie bitte zuerst Ihre gewünschten Benachrichtigungsoptionen unter dem Menüpunkt KONFIGURATION ein und drücken Sie dann "Starten".</string>
+    <string name="setting_introductionText">Bitte bei jeder Kategorie die Bedingungen auswählen, bei denen Sie wünschen, eine Benachrichtigung zu erhalten.</string>
+    <string name="clear">Klar/Bewölkt</string>
+    <string name="foggy">Neblig/Nieselregen</string>
+    <string name="rainny">Niederschlag(Regen/Schnee)</string>
+    <string name="snowy">Schneereich</string>
+    <string name="icy">&lt; 0°C </string>
+    <string name="mild"> 0°C - 15°C</string>
+    <string name="warm">15°C - 25°C</string>
+    <string name="hot">&gt; 25°C</string>
+    <string name="place_introduction">Fügen Sie die Orte hinzu, bei denen Sie eine Benachrichtigung bekommen möchten.\nZ.B.: Alexanderstaße 2, Darmstadt.\nBitte beachten Sie das Format (Straße und Nummer, Ort)! \nWenn Sie \"Der Ort ist mir egal\" auswählen, dann bedeutet dies, dass Sie unterwegs (unabhängig von Ihren eingegebenen Orten) Benachrichtigungen erhalten werden.</string>
+    <string name="current_setting">Ihr aktueller Status</string>
+    <string name="fragment_setting_text">Hier können Sie einstellen, welche Algorithmen und Modi Sie benutzen möchten.\nNach den Einstellungen drücken Sie bitte nochmal "Starten" im Menüpunkt HOME.</string>
+    <string name="status">Ihr Status: </string>
+    <string name="spinner_prompt_modi">Modi auswählen</string>
+    <string name="spinner_prompt_algorithm">Algorithmus auswählen</string>
+    <string-array name="algorithm_spinner">
+        <item>Entscheidungsbaum</item>
+        <item>Naive Bayes</item>
+        <item>k-nearest Neighbors</item>
+    </string-array>
+    <string-array name="modi_spinner">
+        <item>statisch</item>
+        <item>dynmisch</item>
+    </string-array>
+    <string name="feedback_intro">Wenn die Benachrichtigung kommt, können Sie \"Ja\", \"Nein\"  und \"Cancel\" auswählen.\nBitte stellen Sie Ihr gewünschtes Zeitintervall ein, nach dem die Benachrichtigung erneut kommen soll.\nWenn Sie z.B. \"Ja\" auswählen und das dazugehörige Zeitintervall auf 60 Minuten einstellen, dann kommt die nächste Benachrichtigung frühestens erst nach 60 min. Wir empfehlen jedoch, die Einstellungen \"Default\" zu übernehmen.</string>
+</resources>
